@@ -1,1 +1,1 @@
-Detection Of P,QRS And T Waves 
+Detection Of P, QRS And T Waves 
